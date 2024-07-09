@@ -6,7 +6,7 @@ Ini adalah proyek website yang dibuat menggunakan HTML dan Tailwind CSS. Website
 
 Berikut adalah pratinjau beberapa gambar yang ada di folder `/img`:
 
-![Gambar 1](./img/website-duta-kampus.png)
+![Gambar 1](./img/website-duta-kampus24.png)
 
 ## Struktur Proyek
 
